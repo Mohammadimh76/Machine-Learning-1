@@ -389,5 +389,4 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [121 Essential Machine Learning Questions & Answers](https://learn.elitedatascience.com/mlqa-welcome)
 
 
-## My admired companies
-- [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
+
